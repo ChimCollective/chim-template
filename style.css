@@ -1,0 +1,30 @@
+.jumbotron {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+h2{
+  margin-bottom: 1rem;
+}
+
+.card-text{
+  text-align: center;
+}
+
+.btn-group{
+  width: 100%;
+}
+
+.btn-sm{
+  font-size: 1rem;
+}
+
+footer {
+  text-align: right;
+}
+
+footer a {
+  margin-top: 10px;
+  text-decoration: none;
+  color: #000 !important;
+}
